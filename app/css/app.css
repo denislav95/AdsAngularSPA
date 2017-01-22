@@ -174,3 +174,10 @@ ul.sidebar-menu li a, ul.sidebar-menu li a:focus {
     max-width: 150px;
     max-height: 150px;
 }
+
+#ajax-loader{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 99;
+}
